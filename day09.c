@@ -9,7 +9,6 @@ Output:
 Example:
 Input:
 hello
-
 Output:
 olleh
 Explanation: The first character moves to the last position, the second to the second-last, and so on until the entire string is mirrored.*/
