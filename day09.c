@@ -5,7 +5,6 @@ Input:
 
 Output:
 - Print the transformed code name after applying the mirror operation
-
 Example:
 Input:
 hello
