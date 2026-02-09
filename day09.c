@@ -2,7 +2,6 @@
 
 Input:
 - Single line: a lowercase string containing only alphabetic characters (no spaces)
-
 Output:
 - Print the transformed code name after applying the mirror operation
 Example:
